@@ -42,8 +42,6 @@ Um jogo de nave espacial 2D desenvolvido em Java usando o framework LibGDX. Cont
     Certifique-se de ter o Java JDK instalado.
 
     Clone o repositório:
-    bash
-    Copy
 
     git clone https://github.com/seu-usuario/SpaceGame.git  
 
@@ -126,8 +124,6 @@ A 2D spaceship game developed in Java using the LibGDX framework. Control your s
     Ensure you have Java JDK installed.
 
     Clone the repository:
-    bash
-    Copy
 
     git clone https://github.com/your-username/SpaceGame.git  
 
